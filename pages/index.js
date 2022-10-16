@@ -227,7 +227,7 @@ export default function Home({ campaigns }) {
   return (
     <div>
       <Head>
-        <title>BetterFund</title>
+        <title>OPENCROWD</title>
         <meta
           name="description"
           content="Transparent Crowdfunding in Blockchain"
