@@ -302,7 +302,7 @@ export default function Home({ campaigns }) {
           <HStack spacing={2}>
             <SkeletonCircle size="4" />
             <Heading as="h2" size="lg">
-              How BetterFund Works
+              How Opencrowd Works
             </Heading>
           </HStack>
           <Divider marginTop="4" />
