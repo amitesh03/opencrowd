@@ -1,6 +1,6 @@
 Opencrowd : Crowdfunding Platform Powered by Ethereum Blockchain
 
-The Platform is live on Goerli Test Network and available to use at : [opencrowdpro.vercel.app](https://opencrowdpro.vercel.app/)
+The Platform is live on Goerli Test Network and available to use at : [opencrowdpro.vercel.app](https://opencrowd.vercel.app/)
 
 ## Problem Statement and Necessity
 

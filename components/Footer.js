@@ -76,17 +76,12 @@ export default function Footer() {
               zIndex: -1,
             }}
           >
-            <NextLink href="/">🤝BetterFund</NextLink>
+            <NextLink href="/">🤝OPENCROWD</NextLink>
           </Box>
         </Heading>
         <Stack direction={"row"} spacing={6}>
           <NextLink href="/">Home</NextLink>
-          <Link
-            href={
-              "https://github.com/amitesh03/opencrowd"
-            }
-            isExternal
-          >
+          <Link href={"https://github.com/amitesh03/opencrowd"} isExternal>
             Github
           </Link>
           <Link href={"mailto:amitesh0303@gmail.com"} isExternal>
@@ -109,9 +104,12 @@ export default function Footer() {
           justify={{ base: "center", md: "space-between" }}
           align={{ base: "center", md: "center" }}
         >
-          <Text>🌐 Made while 💩 by Harsh, Hritvik , Nischal & Aaditya</Text>
+          <Text> Made by 0xAmitesh</Text>
           <Stack direction={"row"} spacing={6}>
-            <SocialButton label={"Website"} href={"https://github.com/amitesh03"}>
+            <SocialButton
+              label={"Website"}
+              href={"https://github.com/amitesh03"}
+            >
               {" "}
               <FaGlobe />
             </SocialButton>
@@ -121,7 +119,10 @@ export default function Footer() {
             >
               <FaTwitter />
             </SocialButton>
-            <SocialButton label={"Github"} href={"https://github.com/amitesh03"}>
+            <SocialButton
+              label={"Github"}
+              href={"https://github.com/amitesh03"}
+            >
               <FaGithub />
             </SocialButton>
             <SocialButton
